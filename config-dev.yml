@@ -1,4 +1,4 @@
 commit: master/dev/666
 
 config:
-  info: "master config-dev.yml version=1"
+    info: "master config-dev.yml version=1"
